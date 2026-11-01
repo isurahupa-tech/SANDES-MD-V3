@@ -19,6 +19,6 @@ function convertToBool(text, fault = 'true') {
 }
 module.exports = {
 SESSION_ID: process.env.SESSION_ID || "PUT_YOUR_SESSON-ID_HERE",
-ALIVE_IMG : process.env.ALIVE_IMG || "https://upld.zone.id/uploads/d4i0x5iq/v3-logo.webp",
+ALIVE_IMG : process.env.ALIVE_IMG || "https://database.ominisave.store/image/OMINISAVE_1793367040142_IY2OMG.png",
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true", 
 };
