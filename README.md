@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="transform: rotate(180deg);">
 
 <a href="https://sandes-md.zone.id">
-  <img src="https://upld.zone.id/uploads/d4i0x5iq/v3-logo.webp" alt="Brand Logo" width="700px">
+  <img src="https://database.ominisave.store/image/OMINISAVE_1793367040142_IY2OMG.png" alt="Brand Logo" width="700px">
 </a>
 
 <p align="center">
